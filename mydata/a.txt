@@ -1,0 +1,3 @@
+管道的作用-
+rw-r--r-- 1 tarena tarena 2441 9月   8 10:01 passwd
+-rw-r--r-- 1 tarena tarena 2441 9月   8 10:01 passwd
